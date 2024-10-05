@@ -29,4 +29,16 @@ There are 3 types of cell status:</br>
 <b>NOT_REVEALED:</b> The cell is not opened and it is not known if it has a mine.</br>
 <b>REVEALED:</b> The cell is not opened but it is known to the player that the cell contains a mine.</br>
 <b>OPEN:</b> The cell is opened.</br>
-<h4>HintButton.cpp:</h4> This button is implemented because the hint button should be disabled when the game has not yet started and when the game is finished. It has 2 slots, and listens for enable and disable signals. These signals are sent from the grid.
+<h4>HintButton.cpp:</h4> This button is implemented because the hint button should be disabled when the game has not yet started and when the game is finished. It has 2 slots, and listens for enable and disable signals. These signals are sent from the grid.</br>
+
+![empty](https://github.com/user-attachments/assets/28b6da6f-a0ea-4649-8bcc-d47ebf138035)
+
+![first click](https://github.com/user-attachments/assets/2b7af993-1be0-446b-91b2-237a5f89dcab)
+
+![hint-first-click](https://github.com/user-attachments/assets/166a8aa0-ee5f-477b-a951-5367195d8d86)
+
+![hint-second-click](https://github.com/user-attachments/assets/b088df3b-2dfe-4269-8d7f-34b843e5a3e0)
+
+![lose](https://github.com/user-attachments/assets/51a2607d-d751-4d08-bf90-3d2178f9b2cb)
+
+![win](https://github.com/user-attachments/assets/2978db9d-d97d-4833-b051-2af654fe0f50)
